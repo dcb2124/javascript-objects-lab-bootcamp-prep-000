@@ -1,5 +1,5 @@
 
-recipes = new {}
+var recipes = new {}
 
 function updateObjectWithKeyAndValue(object, key, value){
   
