@@ -1,5 +1,5 @@
 
-recipe = new
+recipe = new {}
 
 function updateObjectsWithKeyAndValue(object, key, value){
   
